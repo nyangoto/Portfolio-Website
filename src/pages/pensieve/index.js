@@ -5,10 +5,9 @@ import { Layout } from '@components';
 
 const PensievePage = ({ location }) => {
   return (
-    <Layout location={location}>
-      <Helmet>
+    <Layout location={location}>      <Helmet>
         <title>Blog | Patrick Nyangoto</title>
-        <link rel="canonical" href="https://patrick-nyangoto.dev/pensieve" />
+        <link rel="canonical" href="https://patorangin.me/pensieve" />
       </Helmet>
       
       <div style={{ padding: '100px 0', textAlign: 'center' }}>

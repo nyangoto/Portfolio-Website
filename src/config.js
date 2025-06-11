@@ -1,10 +1,9 @@
-module.exports = {
-  siteTitle: 'Patrick Nyangoto | Full Stack Software Engineer',
+module.exports = {  siteTitle: 'Patrick Nyangoto | Full Stack Software Engineer',
   siteDescription:
     'Patrick Nyangoto is a Full Stack Software Engineer passionate about building scalable web applications and AI solutions.',
   siteKeywords:
     'Patrick Nyangoto, Patrick, Nyangoto, nyangoto, full stack developer, software engineer, React, Node.js, Python, JavaScript, web developer, AI, machine learning, London, LSE',
-  siteUrl: 'https://patrick-nyangoto.dev/',
+  siteUrl: 'https://patorangin.me',
   siteLanguage: 'en_US',
   googleAnalyticsID: '', // Add your GA ID when available
   googleVerification: '', // Add your verification code when available

@@ -5,10 +5,9 @@ import { Layout } from '@components';
 
 const TagsPage = ({ location }) => {
   return (
-    <Layout location={location}>
-      <Helmet>
+    <Layout location={location}>      <Helmet>
         <title>Tags | Patrick Nyangoto</title>
-        <link rel="canonical" href="https://patrick-nyangoto.dev/pensieve/tags" />
+        <link rel="canonical" href="https://patorangin.me/pensieve/tags" />
       </Helmet>
       
       <div style={{ padding: '100px 0', textAlign: 'center' }}>
