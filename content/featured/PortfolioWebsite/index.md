@@ -2,8 +2,8 @@
 date: '2023-12-01'
 title: 'Personal Portfolio Website'
 cover: ''
-github: 'https://github.com/nyangoto/portfolio'
-external: 'https://patrick-nyangoto.dev'
+github: 'https://github.com/nyangoto/nyangoto.github.io'
+external: 'https://patorangin.me/'
 tech:
   - Gatsby
   - React

@@ -1,6 +1,6 @@
 ---
 date: '2023-06-01'
-title: 'Loan Recomputation Analysis Tool'
+title: 'Audit Tool'
 cover: ''
 github: 'https://github.com/nyangoto/loan_recomp_analysis'
 external: ''

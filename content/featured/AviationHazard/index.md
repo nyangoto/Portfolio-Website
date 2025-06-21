@@ -1,12 +1,11 @@
 ---
 date: '2024-02-01'
-title: 'Smart Hazard Detection & Alerting System for Aviation Ground Operations'
+title: 'AeroGuard'
 cover: ''
-github: 'https://github.com/nyangoto/aviation-hazard-detection'
-external: ''
+external: 'https://aeroguard.netlify.app/'
 tech:
   - Python
-  - Computer Vision
+  - MQTT
   - YOLOv5
   - TensorFlow
   - OpenCV

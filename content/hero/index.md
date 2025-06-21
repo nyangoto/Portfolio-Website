@@ -1,10 +1,9 @@
 ---
 title: 'Hi, my name is'
 name: 'Patrick Nyangoto'
-subtitle: 'I build things for the web and beyond.'
+subtitle: 'I build AI-powered platforms that solve real-world problems at scale.'
 buttonText: 'Get In Touch'
 ---
 
-I'm a Full Stack Software Engineer specializing in building exceptional digital experiences. Currently, I'm focused on creating innovative solutions that bridge technology and business needs.
-
-I have a background in Economics from the London School of Economics and a passion for leveraging technology to solve complex problems and create meaningful impact.
+I’m a Full Stack Engineer and AI Solutions Architect with experience leading end-to-end development — from idea to infrastructure — across fintech, aviation, logistics and media.  
+I combine hands-on engineering with system-level thinking to create ventures that are technically sound, locally relevant, and globally scalable.

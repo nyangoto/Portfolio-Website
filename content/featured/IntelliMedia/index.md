@@ -1,9 +1,8 @@
 ---
 date: '2024-03-01'
-title: 'IntelliMedia - AI Powered Media/Brand Intelligence Platform'
+title: 'IntelliMedia'
 cover: ''
-github: 'https://github.com/nyangoto/intellimedia'
-external: ''
+external: 'https://intellimedia.netlify.app/'
 tech:
   - React
   - Node.js
@@ -13,6 +12,7 @@ tech:
   - Docker
   - AWS
   - Machine Learning
+  - NLP
 showInProjects: true
 ---
 

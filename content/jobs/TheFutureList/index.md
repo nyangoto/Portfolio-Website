@@ -1,14 +1,15 @@
 ---
 date: '2021-06-01'
-title: 'Junior Developer'
-company: 'The Future List'
-range: 'June 2021 - December 2021'
+title: 'Enterprise Innnovation Scout - Nairobi'
+company: 'The FutureList'
+range: 'March 2024 - Present'
 url: 'https://www.thefuturelist.com/'
 ---
 
-- Assisted in developing web applications using modern JavaScript frameworks
-- Gained experience in full-stack development and database management
-- Contributed to various client projects and internal tools
-- Learned industry best practices and development workflows
-- Worked with React, Node.js, and various web technologies
-- Participated in team meetings and agile development processes
+- Lead technical due diligence and architecture reviews for high-growth startups, producing comprehensive technical evaluation reports and scalability assessment.
+- Author detailed technical whitepapers and innovation memos analyzing emerging technologies (GenAI, Web3, Cloud Native), guiding enterprise investment decisions.
+- Spearhead collaborative innovation workshops with C-suite stakeholders, translating complex technical concepts into actionable business strategies.
+- Drive enterprise sector analysis through data-driven methodologies, creating detailed technical landscape maps and adoption roadmaps.
+- Establish and maintain technical evaluation frameworks for startup assessment, ensuring consistent quality standards across portfolio companies.
+- Mentor startup technical teams on architecture best practices, scalability patterns, and technology selection.
+- Facilitate knowledge transfer sessions between enterprise stakeholders and startup CTOs, bridging communication gaps and fostering successful partnerships.
