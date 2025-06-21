@@ -2,10 +2,9 @@
   "name": "patrick-nyangoto-portfolio",
   "description": "Patrick Nyangoto's Personal Portfolio Website",
   "version": "1.0.0",
-  "author": "Patrick Nyangoto <patricknyangoto@outlook.com>",
-  "repository": {
+  "author": "Patrick Nyangoto <patricknyangoto@outlook.com>",  "repository": {
     "type": "git",
-    "url": "https://github.com/nyangoto/portfolio"
+    "url": "https://github.com/nyangoto/nyangoto.github.io"
   },
   "keywords": [
     "gatsby"

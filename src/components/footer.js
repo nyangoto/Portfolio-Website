@@ -65,12 +65,11 @@ const Footer = () => {
     stars: null,
     forks: null,
   });
-
   useEffect(() => {
     if (process.env.NODE_ENV !== 'production') {
       return;
     }
-    fetch('https://api.github.com/repos/bchiang7/v4')
+    fetch('https://api.github.com/repos/nyangoto/nyangoto.github.io')
       .then(response => response.json())
       .then(json => {
         const { stargazers_count, forks_count } = json;
@@ -100,14 +99,12 @@ const Footer = () => {
             ))}
         </StyledSocialList>
       </StyledSocial>
-      <StyledMetadata tabindex="-1">
-        <StyledGitHubLink
-          href="https://github.com/bchiang7/v4"
+      <StyledMetadata tabindex="-1">        <StyledGitHubLink
+          href="https://github.com/nyangoto/nyangoto.github.io"
           target="_blank"
           rel="nofollow noopener noreferrer">
           <div>
-            Designed &amp; Built by Brittany Chiang<br></br>
-            Revised by Chandrika Deb
+            Built with ❤️ by Patrick Nyangoto
           </div>
 
           {githubInfo.stars && githubInfo.forks && (

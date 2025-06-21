@@ -1,21 +1,27 @@
 <div align="center">
-  <img alt="Logo" src="https://github.com/nyangoto/portfolio/blob/main/src/images/logo.png" width="100" />
+  <img alt="Logo" src="https://github.com/nyangoto/nyangoto.github.io/blob/master/src/images/logo.png" width="100" />
 </div>
 <h1 align="center">
   Patrick Nyangoto - Portfolio Website
 </h1>
 <p align="center">
-  Personal portfolio website for <a href="https://patrick-nyangoto.dev/" target="_blank">Patrick Nyangoto</a> built with <a href="https://www.gatsbyjs.org/" target="_blank">Gatsby</a> and hosted with <a href="https://pages.github.com/" target="_blank">Github Pages</a>
+  Personal portfolio website for <a href="https://patorangin.me/" target="_blank">Patrick Nyangoto</a> built with <a href="https://www.gatsbyjs.org/" target="_blank">Gatsby</a> and hosted with <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>
 </p>
 
 <div align="center">
-  <img alt="Demo" src="https://github.com/nyangoto/portfolio/blob/main/src/images/demo.png" />
-</div>
+  <img alt="Demo" src="https://github.com/nyangoto/nyangoto.github.io/blob/master/src/images/demo.png" />
 </div>
 
-### TL;DR
+### 🚀 About
 
-Yes, you can fork this repo. Please give proper credit by linking back to [brittanychiang.com](https://brittanychiang.com). Thanks!
+This is the source code for my personal portfolio website showcasing my projects, experience, and skills as a Full Stack Software Engineer.
+
+## 🛠 Built With
+
+- [Gatsby](https://www.gatsbyjs.org/) - Static site generator
+- [React](https://reactjs.org/) - JavaScript library
+- [Styled Components](https://styled-components.com/) - CSS-in-JS
+- [GitHub Pages](https://pages.github.com/) - Hosting
 
 ## 🛠 Installation & Set Up
 
